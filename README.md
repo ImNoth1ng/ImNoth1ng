@@ -8,7 +8,7 @@ Soy estudiante de **Ingeniería en Computación** en la **UNAM, FES Aragón**, c
 - 🔭 Actualmente estoy trabajando en proyectos relacionados con **microcontroladores** y **tecnologías IoT**.
 - 🌱 Estoy aprendiendo sobre **diseño de hardware**, **protocolos de comunicación** y **sistemas en tiempo real**.
 - 💬 Pregúntame sobre **programación de microcontroladores**, **Arduino**, **Raspberry Pi** o cualquier cosa relacionada con sistemas embebidos.
-- 📫 Cómo contactarme: ![LinkedIn](https://mx.linkedin.com/in/luis-enrique-balcazar-gonz%C3%A1lez)
+- 📫 Cómo contactarme: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://mx.linkedin.com/in/luis-enrique-balcazar-gonz%C3%A1lez)
 - ⚡ Dato curioso: ¡Me encanta aprender de forma autodidacta y enfrentarme a retos técnicos que me ayuden a crecer!
 
 ---
@@ -30,8 +30,6 @@ Soy estudiante de **Ingeniería en Computación** en la **UNAM, FES Aragón**, c
 
 ---
 
-
----
 
 ### 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ImNoth1ng&show_icons=true&theme=radical)
