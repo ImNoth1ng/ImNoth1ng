@@ -1,4 +1,4 @@
-### ¡Hola! 👋 owo
+### ¡Hola! 👋
 
 Soy estudiante de **Ingeniería en Computación** en la **UNAM, FES Aragón**, con un interés especial en los **Sistemas Embebidos** y el **Internet de las Cosas (IoT)**. Me apasiona la idea de conectar el mundo físico con el digital, explorando cómo la programación y la electrónica pueden integrarse para crear soluciones innovadoras.
 
