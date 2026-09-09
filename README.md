@@ -2,48 +2,54 @@
 
 ## 🚀 About Me
 
-Computer Engineering graduate from **UNAM FES Aragón** with strong foundations in:
+Computer Engineer from **UNAM FES Aragón** with a strong foundation in software development, backend engineering, and system troubleshooting.
 
-- Data Structures & Algorithms
-- Object-Oriented Design (OOD)
-- Backend Development
-- API Design (REST & GraphQL)
-- Database Management
-- Linux Systems & Troubleshooting
+Currently working as a **Project Trainee at LTIMindtree**, building backend services, APIs, frontend integrations, and automation solutions.
 
-Currently working as a **Project Trainee at LTIMindtree**, developing backend services, APIs, frontend integrations, and automation solutions using modern technologies. 【1-d9d434】
+I enjoy designing scalable applications, solving complex technical problems, and continuously learning new technologies.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/SQL-336791?style=for-the-badge
+<p>
+  <img src="g.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+  <img src="https://img.shields.io/badge/Pythonyle=for-the-badge&logo=python&logoColor=white
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-theo=typescript&logoColor=white
+  <img src="https://img.shields.io/badge/JavaScript-F7=for-the-badge&logo=javascript&logoColor=black
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus=white
+</p>
 
-### Backend
+### Backend Development
 
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge
-https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
-https://img.shields.io/badge/REST_API-00599C?style=for-the-badge
+<p>
+  <img src="https://img.shields.io/ng_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F-the-badge&logo=springsecurity&logoColor=white
+  <img src="https://img.shields.iophQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+  <img src="https://img.shields.io/badge/RESTB?style=for-the-badge
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemolor=white
+</p>
 
-### Frontend
+### Frontend Development
 
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge
+<p>
+  <img src="https://img.shields.io/t-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+  <img src="https://img.shields.io/badge/Vite-646Cor-the-badge&logo=vite&logoColor=white
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4-the-badge&logo=tailwindcss&logoColor=white
+</p>
 
 ### Databases & Tools
 
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-theo=mysql&logoColor=white
+  <img src="https://img.shields.io/badge/A248?style=for-the-badge&logo=mongodb&logoColor=white
+  <img src="https://img.shieldsDocker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+  <img src="https://img.shields.io/badge/Linux-FCC624?the-badge&logo=linux&logoColor=black
+  <img src="https://img.shields.io/badge2?style=for-the-badge&logo=git&logoColor=white
+  <img src="https://img.shields.io/badge/Postman-FF6C37?styleadge&logo=postman&logoColor=white
+</p>
 
 ---
 
@@ -51,21 +57,17 @@ https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=w
 
 ## 💰 MoneyVault
 
-A full-stack personal finance management platform focused on managing real-world liquidity, debit accounts, credit cards, debt tracking, investments, and financial analytics.
+A full-stack personal finance management platform focused on real-world liquidity tracking, credit management, debt control, and financial analytics.
 
 ### Key Features
 
-✅ Real-time financial dashboard
-
-✅ Credit card limit usage tracking
-
-✅ Cash breakdown and auditing tools
-
-✅ Debtors and ticket management
-
-✅ Historical financial snapshots
-
-✅ Secure JWT authentication with BCrypt
+- 📊 Real-time financial dashboard
+- 💳 Credit card limit utilization tracking
+- 💵 Cash audit calculator
+- 👥 Debtor and ticket management
+- 📈 Historical financial snapshots
+- 🔒 JWT Authentication with Spring Security and BCrypt
+- 🐳 Dockerized deployment
 
 ### Tech Stack
 
@@ -73,7 +75,7 @@ A full-stack personal finance management platform focused on managing real-world
 - Java 17
 - Spring Boot 3
 - Spring Security
-- Hibernate / JPA
+- JPA / Hibernate
 - MySQL
 - Swagger / OpenAPI
 
@@ -99,28 +101,29 @@ A full-stack personal finance management platform focused on managing real-world
 ## 📚 Currently Learning
 
 - Software Architecture
-- Cloud & Containers
+- Cloud Technologies
 - Advanced Spring Boot
-- System Design
 - Data Engineering Fundamentals
-- Scalable API Development
+- Scalable API Design
+- System Design
 
 ---
 
 ## 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=ImNoth1ng&show_icons=true&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=ImNoth1ng&layout=compact&theme=tokyonight
-
----
-
-## 📫 Contact
-
-📧 lb21enrique@gmail.com
-
-💼 LinkedIn: (Add your profile link here)
+<p align="center">
+  <img height="180em" src="https://github-readme-statsImNoth1ng&show_icons=true&theme=tokyonight
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?=compact&theme=tokyonight
+</p>
 
 ---
 
-> "Continuous learning and building real-world solutions through code."
+## 🤝 Let's Connect
+
+📧 **Email:** lb21enrique@gmail.com
+
+💼 **LinkedIn:** Add your LinkedIn profile here
+
+---
+
+> "Continuous learning, clean code, and building software that solves real-world problems."
