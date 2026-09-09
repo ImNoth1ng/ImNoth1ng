@@ -1,44 +1,126 @@
-### ¡Hola! 👋
+# Hi there, I'm Luis Enrique Balcázar González 👋
 
-Soy estudiante de **Ingeniería en Computación** en la **UNAM, FES Aragón**, con un interés especial en los **Sistemas Embebidos** y el **Internet de las Cosas (IoT)**. Me apasiona la idea de conectar el mundo físico con el digital, explorando cómo la programación y la electrónica pueden integrarse para crear soluciones innovadoras.
+## 🚀 About Me
 
----
+Computer Engineering graduate from **UNAM FES Aragón** with strong foundations in:
 
-### 🌟 Sobre mí
-- 🔭 Actualmente estoy trabajando en proyectos relacionados con **microcontroladores** y **tecnologías IoT**.
-- 🌱 Estoy aprendiendo sobre **diseño de hardware**, **protocolos de comunicación** y **sistemas en tiempo real**.
-- 💬 Pregúntame sobre **programación de microcontroladores**, **Arduino**, **Raspberry Pi** o cualquier cosa relacionada con sistemas embebidos.
-- 📫 Cómo contactarme: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://mx.linkedin.com/in/luis-enrique-balcazar-gonz%C3%A1lez)
-- ⚡ Dato curioso: ¡Me encanta aprender de forma autodidacta y enfrentarme a retos técnicos que me ayuden a crecer!
+- Data Structures & Algorithms
+- Object-Oriented Design (OOD)
+- Backend Development
+- API Design (REST & GraphQL)
+- Database Management
+- Linux Systems & Troubleshooting
 
----
-
-### 🚀 Áreas de interés
-- **Sistemas Embebidos:** Diseño e implementación de soluciones basadas en microcontroladores como Arduino, ESP32 y STM32.
-- **Internet de las Cosas (IoT):** Conexión de dispositivos inteligentes para automatización y monitoreo remoto.
-- **Programación de bajo nivel:** Desarrollo en lenguajes como C/C++ para hardware.
-- **Diseño de hardware:** Creación de circuitos electrónicos y PCB para proyectos personalizados.
+Currently working as a **Project Trainee at LTIMindtree**, developing backend services, APIs, frontend integrations, and automation solutions using modern technologies. 【1-d9d434】
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-- **Lenguajes de programación:** C, C++, Python.
-- **Microcontroladores:** Arduino, ESP32, STM32.
-- **Plataformas IoT:** MQTT, Node-RED, Blynk.
-- **Diseño de hardware:** KiCAD, Fritzing.
-- **Otros:** Linux, Git, Docker.
+## 💻 Tech Stack
+
+### Languages
+
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/SQL-336791?style=for-the-badge
+
+### Backend
+
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge
+https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+https://img.shields.io/badge/REST_API-00599C?style=for-the-badge
+
+### Frontend
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge
+
+### Databases & Tools
+
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
 ---
 
+# 🌟 Featured Project
 
-### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ImNoth1ng&show_icons=true&theme=radical)
+## 💰 MoneyVault
+
+A full-stack personal finance management platform focused on managing real-world liquidity, debit accounts, credit cards, debt tracking, investments, and financial analytics.
+
+### Key Features
+
+✅ Real-time financial dashboard
+
+✅ Credit card limit usage tracking
+
+✅ Cash breakdown and auditing tools
+
+✅ Debtors and ticket management
+
+✅ Historical financial snapshots
+
+✅ Secure JWT authentication with BCrypt
+
+### Tech Stack
+
+**Backend**
+- Java 17
+- Spring Boot 3
+- Spring Security
+- Hibernate / JPA
+- MySQL
+- Swagger / OpenAPI
+
+**Frontend**
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- React Query
+- React Hook Form
+- Zod
+
+**Infrastructure**
+- Docker
+- Docker Compose
+- Nginx
+
+🔗 **Repository:**  
+[MoneyVault](https://github.com/ImNoth1ng/MoneyVault)
 
 ---
 
-### 🌟 Mi objetivo
-Mi objetivo es seguir desarrollándome en el campo de los **sistemas embebidos**, contribuyendo con ideas y soluciones prácticas, mientras mantengo una mentalidad abierta al aprendizaje continuo y a la evolución tecnológica.
+## 📚 Currently Learning
+
+- Software Architecture
+- Cloud & Containers
+- Advanced Spring Boot
+- System Design
+- Data Engineering Fundamentals
+- Scalable API Development
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+## 📈 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=ImNoth1ng&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ImNoth1ng&layout=compact&theme=tokyonight
+
+---
+
+## 📫 Contact
+
+📧 lb21enrique@gmail.com
+
+💼 LinkedIn: (Add your profile link here)
+
+---
+
+> "Continuous learning and building real-world solutions through code."
