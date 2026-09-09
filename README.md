@@ -1,129 +1,90 @@
-# Hi there, I'm Luis Enrique Balcázar González 👋
+# Hola 👋 Soy Luis Enrique Balcázar González
 
-## 🚀 About Me
+**Ingeniero en Computación — UNAM, FES Aragón**
+Backend Developer | Java · Spring Boot · React · TypeScript
 
-Computer Engineer from **UNAM FES Aragón** with a strong foundation in software development, backend engineering, and system troubleshooting.
+Ingeniero en Computación con bases sólidas en Estructuras de Datos, Algoritmos y Diseño Orientado a Objetos. Me enfoco en el desarrollo de servicios backend y APIs REST/GraphQL, además de construir interfaces con TypeScript y React.
 
-Currently working as a **Project Trainee at LTIMindtree**, building backend services, APIs, frontend integrations, and automation solutions.
-
-I enjoy designing scalable applications, solving complex technical problems, and continuously learning new technologies.
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="g.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-  <img src="https://img.shields.io/badge/Pythonyle=for-the-badge&logo=python&logoColor=white
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-theo=typescript&logoColor=white
-  <img src="https://img.shields.io/badge/JavaScript-F7=for-the-badge&logo=javascript&logoColor=black
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus=white
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://img.shields.io/ng_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F-the-badge&logo=springsecurity&logoColor=white
-  <img src="https://img.shields.iophQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
-  <img src="https://img.shields.io/badge/RESTB?style=for-the-badge
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemolor=white
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/t-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  <img src="https://img.shields.io/badge/Vite-646Cor-the-badge&logo=vite&logoColor=white
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4-the-badge&logo=tailwindcss&logoColor=white
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-theo=mysql&logoColor=white
-  <img src="https://img.shields.io/badge/A248?style=for-the-badge&logo=mongodb&logoColor=white
-  <img src="https://img.shieldsDocker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-  <img src="https://img.shields.io/badge/Linux-FCC624?the-badge&logo=linux&logoColor=black
-  <img src="https://img.shields.io/badge2?style=for-the-badge&logo=git&logoColor=white
-  <img src="https://img.shields.io/badge/Postman-FF6C37?styleadge&logo=postman&logoColor=white
-</p>
+Actualmente trabajo como **Project Trainee en LTIMindtree**, desarrollando servicios backend, integraciones frontend y automatizaciones internas.
 
 ---
 
-# 🌟 Featured Project
+## 🌟 Proyecto destacado
 
-## 💰 MoneyVault
+### 💰 [MoneyVault](https://github.com/ImNoth1ng/MoneyVault)
 
-A full-stack personal finance management platform focused on real-world liquidity tracking, credit management, debt control, and financial analytics.
+Plataforma web full-stack de control de finanzas personales: gestión de liquidez real, cuentas de débito, efectivo, deudores y tarjetas de crédito con seguimiento del límite ocupado en tiempo real.
 
-### Key Features
+**Funcionalidades clave**
 
-- 📊 Real-time financial dashboard
-- 💳 Credit card limit utilization tracking
-- 💵 Cash audit calculator
-- 👥 Debtor and ticket management
-- 📈 Historical financial snapshots
-- 🔒 JWT Authentication with Spring Security and BCrypt
-- 🐳 Dockerized deployment
+- Dashboard financiero con cálculo de dinero libre disponible (Débito + Efectivo + Por Cobrar − Deudas de crédito)
+- Semáforo financiero comparando disponibilidad contra snapshots previos
+- Seguimiento de crédito ocupado vs. límite asignado con barra de progreso
+- Calculadora de desglose de efectivo por denominación para auditoría de caja
+- Módulo de deudores con control de tickets pagados vs. pendientes
+- Snapshots históricos quincenales/mensuales para análisis de tendencias
+- Autenticación JWT stateless con contraseñas encriptadas (BCrypt)
 
-### Tech Stack
+**Stack**
 
-**Backend**
-- Java 17
-- Spring Boot 3
-- Spring Security
-- JPA / Hibernate
-- MySQL
-- Swagger / OpenAPI
+| Capa | Tecnologías |
+|---|---|
+| Backend | Java 17, Spring Boot 3, Spring Security, Spring Data JPA, Hibernate, MySQL 8, Swagger/OpenAPI 3, Maven |
+| Frontend | React 19, TypeScript, Vite, Tailwind CSS, React Query, React Hook Form, Zod, Lucide Icons |
+| Infraestructura | Docker, Docker Compose, Nginx |
 
-**Frontend**
-- React 19
-- TypeScript
-- Vite
-- Tailwind CSS
-- React Query
-- React Hook Form
-- Zod
-
-**Infrastructure**
-- Docker
-- Docker Compose
-- Nginx
-
-🔗 **Repository:**  
-[MoneyVault](https://github.com/ImNoth1ng/MoneyVault)
+🔗 Repositorio: https://github.com/ImNoth1ng/MoneyVault
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Tecnologías
 
-- Software Architecture
-- Cloud Technologies
-- Advanced Spring Boot
-- Data Engineering Fundamentals
-- Scalable API Design
-- System Design
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-statsImNoth1ng&show_icons=true&theme=tokyonight
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?=compact&theme=tokyonight
-</p>
+- **Lenguajes:** Java, Python, TypeScript, JavaScript, C/C++, SQL
+- **Backend y frameworks:** Spring Boot, Spring Security, GraphQL, APIs REST, Maven
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS
+- **Bases de datos:** MySQL, MongoDB
+- **Herramientas:** Git/GitHub, Linux, Bash, Docker, Postman
+- **Conceptos base:** Diseño Orientado a Objetos, Estructuras de Datos, Algoritmos, SDLC, Debugging
 
 ---
 
-## 🤝 Let's Connect
+## 💼 Experiencia
 
-📧 **Email:** lb21enrique@gmail.com
+**Project Trainee — LTIMindtree** · Enero 2026 – Actualidad
+Servicios backend y APIs con Java, Spring Boot, Maven, GraphQL y Spring Security. Modelado de esquemas relacionales (MySQL) y NoSQL (MongoDB). Interfaces modulares con TypeScript y React. Automatización de flujos internos con Python. Análisis de causa raíz y diagnóstico de logs.
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+**Asistente de Desarrollo Web — Incubadora de Empresas (Servicio Social)** · 2025
+Mantenimiento de plataforma web y documentación técnica de flujos del sistema.
+
+**Asistente — Centro de Cómputo, FES Aragón (Servicio Social)** · Ago 2022 – Abr 2023
+Mantenimiento de sistemas Linux y Windows, configuración y diagnóstico técnico de laboratorios.
 
 ---
 
-> "Continuous learning, clean code, and building software that solves real-world problems."
+## 🎓 Formación y certificaciones
+
+- Ingeniería en Computación — UNAM, FES Aragón (2021–2025)
+- Título Técnico en Computación — UNAM, ENP 1 (2019–2021)
+- Programación Orientada a Objetos con Python 3 — UNAM
+- Desarrollo de APIs REST con Laravel — UNAM
+- Introducción a Deep Learning con Keras — UNAM
+
+**Idiomas:** Español (nativo) · Inglés (B2)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImNoth1ng&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNoth1ng&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- 📧 lb21enrique@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-enrique-balcazar-gonzalez/)
+- 📍 Ciudad de México, México
+
+¡Gracias por visitar mi perfil! 😊
